@@ -8,5 +8,5 @@ metadata:
     - backend
 spec:
   type: service
-  lifecycle: production
+  lifecycle: dev
   owner: team
