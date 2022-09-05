@@ -1,14 +1,16 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: service3
+  name: document-bola-seg
   description: This is a private demo service
   tags:
     - nodejs
     - backend
   annotations:
-    sonarqube.org/project-key: TestOrg1923_repo3_AYLuEzBXpl-OSC-IurZP
+    sonarqube.org/project-key: TestOrg1923_repo3
+    backstage.io/kubernetes-id: document-bola-seg
 spec:
   type: service
   lifecycle: dev
   owner: team
+  system: Multifornecedor
