@@ -9,6 +9,7 @@ metadata:
   annotations:
     sonarqube.org/project-key: TestOrg1923_repo3
     backstage.io/kubernetes-id: document-bola-seg
+    github.com/project-slug: TestOrg1923/repo3
 spec:
   type: service
   lifecycle: dev
