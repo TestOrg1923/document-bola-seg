@@ -10,6 +10,7 @@ metadata:
     sonarqube.org/project-key: TestOrg1923_document-bola-seg
     backstage.io/kubernetes-id: document-bola-seg
     github.com/project-slug: TestOrg1923/repo3
+    goharbor.io/repository-slug: inspection-demo/conformance
 spec:
   type: service
   lifecycle: dev
